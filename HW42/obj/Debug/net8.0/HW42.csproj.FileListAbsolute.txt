@@ -1,0 +1,14 @@
+C:\Users\Mr. X\source\repos\HW42\HW42\obj\Debug\net8.0\HW42.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr. X\source\repos\HW42\HW42\obj\Debug\net8.0\HW42.AssemblyInfoInputs.cache
+C:\Users\Mr. X\source\repos\HW42\HW42\obj\Debug\net8.0\HW42.AssemblyInfo.cs
+C:\Users\Mr. X\source\repos\HW42\HW42\obj\Debug\net8.0\HW42.csproj.CoreCompileInputs.cache
+C:\Users\Mr. X\source\repos\HW42\HW42\bin\Debug\net8.0\HW42.exe
+C:\Users\Mr. X\source\repos\HW42\HW42\bin\Debug\net8.0\HW42.deps.json
+C:\Users\Mr. X\source\repos\HW42\HW42\bin\Debug\net8.0\HW42.runtimeconfig.json
+C:\Users\Mr. X\source\repos\HW42\HW42\bin\Debug\net8.0\HW42.dll
+C:\Users\Mr. X\source\repos\HW42\HW42\bin\Debug\net8.0\HW42.pdb
+C:\Users\Mr. X\source\repos\HW42\HW42\obj\Debug\net8.0\HW42.dll
+C:\Users\Mr. X\source\repos\HW42\HW42\obj\Debug\net8.0\refint\HW42.dll
+C:\Users\Mr. X\source\repos\HW42\HW42\obj\Debug\net8.0\HW42.pdb
+C:\Users\Mr. X\source\repos\HW42\HW42\obj\Debug\net8.0\HW42.genruntimeconfig.cache
+C:\Users\Mr. X\source\repos\HW42\HW42\obj\Debug\net8.0\ref\HW42.dll
